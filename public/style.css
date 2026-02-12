@@ -77,3 +77,7 @@
   padding: 15px;
   background: #ccc;
 }
+.message-error {
+  background: #ff3333;
+  color: white;
+}
